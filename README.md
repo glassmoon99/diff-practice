@@ -1,4 +1,4 @@
 # diff-practice
 Git動画講座diff練習用
-変更 Working Directory用　2nd
-mainブランチで変更
+複数ファイル変更用　3rd
+mergetoolコンフリクト用１（featureブランチ）
